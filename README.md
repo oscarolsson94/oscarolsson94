@@ -2,21 +2,21 @@
 
 **Areas I have experience within**
 
-:trophy: Java
-:trophy: Databases (SQL + MongoDB)
-:trophy: HTML & CSS
-:trophy: JavaScript
-:trophy: Version control (git)
-:trophy: API:s (JSON, REST)
-:trophy: SCRUM
+:trophy: Java <br/>
+:trophy: Databases (SQL + MongoDB) <br/>
+:trophy: HTML & CSS <br/>
+:trophy: JavaScript <br/>
+:trophy: Version control (git) <br/>
+:trophy: API:s (JSON, REST) <br/>
+:trophy: SCRUM <br/>
 
 **Stuff Im planning on learning soon**
 
-:hourglass: Docker
-:hourglass: 
-:hourglass:
+:hourglass: Docker <br/>
+:hourglass:  <br/>
+:hourglass: <br/>
 
-:email: Contact Email: Oscar.olsson94@hotmail.com :email:
+:email: **Contact Email:** Oscar.olsson94@hotmail.com :email:
 
 <!--
 **oscarolsson94/oscarolsson94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
