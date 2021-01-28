@@ -3,6 +3,8 @@
 **Areas I have experience within**
 
 :trophy: Java <br/>
+:trophy: JUnit testing <br/>
+:trophy: Maven build automation <br/>
 :trophy: Databases (SQL + MongoDB) <br/>
 :trophy: HTML & CSS <br/>
 :trophy: JavaScript <br/>
@@ -10,11 +12,12 @@
 :trophy: API:s (JSON, REST) <br/>
 :trophy: SCRUM <br/>
 
+
 **Stuff Im planning on learning soon**
 
 :hourglass: Docker <br/>
-:hourglass:  <br/>
-:hourglass: <br/>
+:hourglass: Spring boot <br/>
+:hourglass: Android Studio <br/>
 
 :email: **Contact Email:** Oscar.olsson94@hotmail.com :email:
 
