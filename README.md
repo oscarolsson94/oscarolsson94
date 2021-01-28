@@ -16,7 +16,7 @@
 **Stuff Im planning on learning soon**
 
 :hourglass: Docker <br/>
-:hourglass: Spring boot <br/>
+:hourglass: Spring framework <br/>
 :hourglass: Android Studio <br/>
 
 :email: **Contact Email:** Oscar.olsson94@hotmail.com :email:
