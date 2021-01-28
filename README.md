@@ -10,8 +10,6 @@
 :trophy: JavaScript <br/>
 :trophy: Version control (git) <br/>
 :trophy: API:s (JSON, REST) <br/>
-:trophy: SCRUM <br/>
-
 
 **Stuff Im planning on learning soon**
 
