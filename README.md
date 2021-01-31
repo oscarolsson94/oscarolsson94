@@ -6,7 +6,7 @@
 :trophy: JUnit testing <br/>
 :trophy: Maven build automation <br/>
 :trophy: Databases (SQL + MongoDB) <br/>
-:trophy: HTML & CSS <br/>
+:trophy: HTML, CSS, jQuery<br/>
 :trophy: JavaScript <br/>
 :trophy: Version control (git) <br/>
 :trophy: API:s (JSON, REST) <br/>
