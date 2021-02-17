@@ -18,7 +18,7 @@
 
 :hourglass: Docker <br/>
 :hourglass: Spring framework <br/>
-:hourglass: Android Studio <br/>
+:hourglass: React <br/>
 
 :email: **Contact Email:** Oscar.olsson94@hotmail.com :email:
 
