@@ -13,12 +13,16 @@
 :trophy: API:s (JSON, REST) <br/>
 :trophy: Node.js, Express.js <br/>
 
+**Working on...**
+🌱 React <br/>
+🌱 Node <br/>
+🌱 CI/CD <br/>
+🌱 Jest testing <br/>
 
 **Stuff Im planning on learning soon**
 
 :hourglass: Docker <br/>
-:hourglass: Spring framework <br/>
-:hourglass: React <br/>
+:hourglass: Spring <br/>
 
 :email: **Contact Email:** Oscar.olsson94@hotmail.com :email:
 
