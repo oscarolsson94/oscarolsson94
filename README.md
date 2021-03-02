@@ -18,7 +18,6 @@
 🌱 React <br/>
 🌱 Node <br/>
 🌱 CI/CD <br/>
-🌱 Jest testing <br/>
 
 **Stuff Im planning on learning soon**
 
