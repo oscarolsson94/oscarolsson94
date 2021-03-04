@@ -16,13 +16,12 @@
 **Working on...**
 
 🌱 React <br/>
-🌱 Node <br/>
+🌱 Spring <br/>
 🌱 CI/CD <br/>
 
 **Stuff Im planning on learning soon**
 
 :hourglass: Docker <br/>
-:hourglass: Spring <br/>
 
 :email: **Contact Email:** Oscar.olsson94@hotmail.com :email:
 
