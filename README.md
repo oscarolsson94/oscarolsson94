@@ -12,7 +12,7 @@
 :trophy: Version control (git) <br/>
 :trophy: API:s (JSON, REST) <br/>
 :trophy: Node.js, Express.js <br/>
-:trophy: React <br/>
+:trophy: React.js <br/>
 
 **Working on...**
 
