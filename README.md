@@ -5,6 +5,7 @@
 :trophy: Java <br/>
 :trophy: JUnit testing <br/>
 :trophy: Maven build automation <br/>
+:trophy: Spring Boot <br/>
 :trophy: Databases (SQL + MongoDB) <br/>
 :trophy: HTML, CSS, jQuery <br/>
 :trophy: JavaScript <br/>
