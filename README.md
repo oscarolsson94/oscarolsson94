@@ -17,8 +17,9 @@
 
 **Working on...**
 
-🌱 Spring <br/>
+🌱 Spring Security <br/>
 🌱 CI/CD <br/>
+🌱 Clean Code <br/>
 
 **Stuff Im planning on learning soon**
 
