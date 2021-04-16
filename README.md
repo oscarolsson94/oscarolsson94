@@ -11,9 +11,10 @@
 :trophy: JavaScript <br/>
 :trophy: TypeScript <br/>
 :trophy: Version control (git) <br/>
-:trophy: API:s (JSON, REST) <br/>
+:trophy: API:s <br/>
 :trophy: Node.js, Express.js <br/>
 :trophy: React.js <br/>
+:trophy: Redux <br/>
 
 **Working on...**
 
