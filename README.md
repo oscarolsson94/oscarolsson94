@@ -1,4 +1,3 @@
-👋 Welcome to my profile 👋
 
 **Areas I have experience within**
 
