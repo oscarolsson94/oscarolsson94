@@ -1,19 +1,29 @@
 
 **Areas I have experience within**
 
+**Languages:**<br/>
 :trophy: Java <br/>
-:trophy: JUnit testing <br/>
-:trophy: Maven build automation <br/>
-:trophy: Spring Boot <br/>
-:trophy: Databases - (mySQL, PostgreSQL, MongoDB, firebase) <br/>
-:trophy: HTML, CSS, jQuery <br/>
 :trophy: JavaScript <br/>
 :trophy: TypeScript <br/>
-:trophy: Version control (git) <br/>
-:trophy: API:s <br/>
-:trophy: Node.js, Express.js <br/>
+
+:coffee: **Backend:**<br/>
+:trophy: Spring Boot <br/>
+:trophy: Databases - (mySQL, PostgreSQL, MongoDB, Firebase) <br/>
+:trophy: JUnit testing <br/>
+:trophy: Maven build automation <br/>
+:trophy: API:s - (creating & consuming) <br/>
+:trophy: Node.js <br/>
+:trophy: Express.js <br/>
+
+:atom_symbol: **Frontend:**<br/>
+:trophy: HTML, CSS, jQuery <br/>
 :trophy: React.js <br/>
 :trophy: Redux <br/>
+:trophy: Styled Components <br/>
+:trophy: Tailwind Css <br/>
+
+**Overall skills:**<br/>
+:trophy: Version control (git) <br/>
 :trophy: Deployment - (Netlify, Heroku, Firebase) <br/>
 
 **Working on...**
@@ -25,8 +35,11 @@
 **Stuff Im planning on learning soon**
 
 :hourglass: Docker <br/>
+:hourglass: Next.js <br/>
 
-:email: **Contact Email:** Oscar.olsson94@hotmail.com :email:
+:email: **Contact Email:** Oscar.olsson94@hotmail.com :email: <br/> <br/>
+:earth_americas: **Website** - (Under construction) <br/>
+:construction: www.olssondev.com :construction:
 
 <!--
 **oscarolsson94/oscarolsson94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
