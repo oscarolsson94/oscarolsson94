@@ -25,19 +25,18 @@
 :school_satchel: **Overall skills:**<br/>
 :trophy: Version control (git) <br/>
 :trophy: Deployment - (Netlify, Heroku, Firebase) <br/>
-:trophy: Agile Development
-:trophy: Trello & Figma
+:trophy: Agile Development <br/>
+:trophy: Trello & Figma <br/>
 
-:man_student: **Working on...**
-
+:man_student: **Working on...** <br/>
 🌱 Spring Security <br/>
 🌱 CI/CD <br/>
 🌱 Clean Code <br/>
+🌱 Next.js <br/>
 
-**Stuff Im planning on learning soon**
-
+**Stuff Im planning on learning soon** <br/>
 :hourglass: Docker <br/>
-:hourglass: Next.js <br/>
+
 
 :email: **Contact Email:** Oscar.olsson94@hotmail.com :email: <br/> <br/>
 :earth_americas: **Website** - (Under construction) <br/>
