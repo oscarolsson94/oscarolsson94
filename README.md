@@ -25,6 +25,8 @@
 :school_satchel: **Overall skills:**<br/>
 :trophy: Version control (git) <br/>
 :trophy: Deployment - (Netlify, Heroku, Firebase) <br/>
+:trophy: Agile Development
+:trophy: Trello & Figma
 
 :man_student: **Working on...**
 
