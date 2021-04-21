@@ -1,7 +1,7 @@
 
 **Areas I have experience within**
 
-**Languages:**<br/>
+:books: **Languages:**<br/>
 :trophy: Java <br/>
 :trophy: JavaScript <br/>
 :trophy: TypeScript <br/>
@@ -22,11 +22,11 @@
 :trophy: Styled Components <br/>
 :trophy: Tailwind Css <br/>
 
-**Overall skills:**<br/>
+:school_satchel: **Overall skills:**<br/>
 :trophy: Version control (git) <br/>
 :trophy: Deployment - (Netlify, Heroku, Firebase) <br/>
 
-**Working on...**
+:man_student: **Working on...**
 
 🌱 Spring Security <br/>
 🌱 CI/CD <br/>
