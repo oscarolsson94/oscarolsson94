@@ -21,6 +21,7 @@
 :trophy: Redux <br/>
 :trophy: Styled Components <br/>
 :trophy: Tailwind Css <br/>
+:trophy: Next.js <br/>
 
 :school_satchel: **Overall skills:**<br/>
 :trophy: Version control (git) <br/>
@@ -32,7 +33,6 @@
 🌱 Spring Security <br/>
 🌱 CI/CD <br/>
 🌱 Clean Code <br/>
-🌱 Next.js <br/>
 
 **Stuff Im planning on learning soon** <br/>
 :hourglass: Docker <br/>
