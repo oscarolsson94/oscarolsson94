@@ -38,6 +38,7 @@
 
 **Stuff Im planning on learning soon** <br/>
 :hourglass: Docker <br/>
+:hourglass: Cyber Security <br/>
 
 
 :email: **Contact Email:** Oscar.olsson94@hotmail.com :email: <br/> <br/>
