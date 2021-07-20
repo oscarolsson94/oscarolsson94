@@ -8,6 +8,7 @@
 
 :coffee: **Backend:**<br/>
 :trophy: Spring Boot <br/>
+:trophy: Spring Security <br/>
 :trophy: Databases - (mySQL, PostgreSQL, MongoDB, Firebase) <br/>
 :trophy: JUnit testing <br/>
 :trophy: Maven build automation <br/>
@@ -28,10 +29,11 @@
 :trophy: Deployment - (Netlify, Heroku, Firebase, Vercel) <br/>
 :trophy: Agile Development <br/>
 :trophy: Trello & Figma <br/>
+:trophy: CI/CD <br/>
+:trophy: Writing Secure Web Applications
 
 :man_student: **Working on...** <br/>
-🌱 Spring Security <br/>
-🌱 CI/CD <br/>
+🌱 Custom JWT Authentication <br/>
 🌱 Clean Code <br/>
 
 **Stuff Im planning on learning soon** <br/>
