@@ -12,7 +12,7 @@
 :trophy: Databases - (mySQL, PostgreSQL, MongoDB, Firebase) <br/>
 :trophy: JUnit testing <br/>
 :trophy: Maven build automation <br/>
-:trophy: API:s - (creating & consuming) - REST & GraphQL <br/>
+:trophy: API:s - (creating & consuming) - (REST & GraphQL) <br/>
 :trophy: Node.js <br/>
 :trophy: Express.js <br/>
 
