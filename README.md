@@ -22,6 +22,7 @@
 :trophy: Redux <br/>
 :trophy: Styled Components <br/>
 :trophy: Tailwind Css <br/>
+:trophy: Sass <br/>
 :trophy: Next.js <br/>
 
 :school_satchel: **Overall skills:**<br/>
