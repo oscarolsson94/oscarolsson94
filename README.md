@@ -34,7 +34,9 @@
 :trophy: Writing Secure Web Applications
 
 :man_student: **Working on...** <br/>
-🌱 Custom JWT Authentication <br/>
+🌱 C# <br/>
+🌱 CQRS + Mediator pattern <br/>
+🌱 Azure <br/>
 🌱 Clean Code <br/>
 
 **Stuff Im planning on learning soon** <br/>
