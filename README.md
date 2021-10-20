@@ -29,7 +29,7 @@
 :trophy: Version control (git) <br/>
 :trophy: Deployment - (Netlify, Heroku, Firebase, Vercel) <br/>
 :trophy: Agile Development <br/>
-:trophy: Trello & Figma <br/>
+:trophy: Azure DevOps, Trello & Figma <br/>
 :trophy: CI/CD <br/>
 :trophy: Writing Secure Web Applications
 
