@@ -5,10 +5,13 @@
 :trophy: Java <br/>
 :trophy: JavaScript <br/>
 :trophy: TypeScript <br/>
+:trophy: C# <br/>
 
 :coffee: **Backend:**<br/>
 :trophy: Spring Boot <br/>
 :trophy: Spring Security <br/>
+:trophy: .NET Core <br/>
+:trophy: Dapper <br/>
 :trophy: Databases - (mySQL, PostgreSQL, MongoDB, Firebase) <br/>
 :trophy: JUnit testing <br/>
 :trophy: Maven build automation <br/>
@@ -19,7 +22,8 @@
 :atom_symbol: **Frontend:**<br/>
 :trophy: HTML, CSS, jQuery <br/>
 :trophy: React.js <br/>
-:trophy: Redux <br/>
+:trophy: Redux + Redux Toolkit<br/>
+:trophy: Material UI<br/>
 :trophy: Styled Components <br/>
 :trophy: Tailwind Css <br/>
 :trophy: Sass <br/>
@@ -34,7 +38,6 @@
 :trophy: Writing Secure Web Applications
 
 :man_student: **Working on...** <br/>
-🌱 C# <br/>
 🌱 CQRS + Mediator pattern <br/>
 🌱 Azure <br/>
 🌱 Clean Code <br/>
