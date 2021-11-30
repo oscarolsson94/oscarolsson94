@@ -23,6 +23,7 @@
 :trophy: HTML, CSS, jQuery <br/>
 :trophy: React.js <br/>
 :trophy: Redux + Redux Toolkit<br/>
+:trophy: Storybook.js
 :trophy: Material UI<br/>
 :trophy: Styled Components <br/>
 :trophy: Tailwind Css <br/>
