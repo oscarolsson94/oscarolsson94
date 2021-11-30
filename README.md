@@ -31,15 +31,13 @@
 
 :school_satchel: **Overall skills:**<br/>
 :trophy: Version control (git) <br/>
-:trophy: Deployment - (Netlify, Heroku, Firebase, Vercel) <br/>
+:trophy: Deployment - (Netlify, Heroku, Firebase, Vercel, Azure) <br/>
 :trophy: Agile Development <br/>
 :trophy: Azure DevOps, Trello & Figma <br/>
 :trophy: CI/CD <br/>
 :trophy: Writing Secure Web Applications
 
 :man_student: **Working on...** <br/>
-🌱 CQRS + Mediator pattern <br/>
-🌱 Azure <br/>
 🌱 Clean Code <br/>
 
 **Stuff Im planning on learning soon** <br/>
