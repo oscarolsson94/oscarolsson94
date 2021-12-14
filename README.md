@@ -24,11 +24,13 @@
 :trophy: React.js <br/>
 :trophy: Redux + Redux Toolkit<br/>
 :trophy: Storybook.js<br/>
+:trophy: React-Query<br/>
 :trophy: Material UI<br/>
 :trophy: Styled Components <br/>
 :trophy: Tailwind Css <br/>
 :trophy: Sass <br/>
 :trophy: Next.js <br/>
+:trophy: Jest <br/>
 
 :school_satchel: **Overall skills:**<br/>
 :trophy: Version control (git) <br/>
@@ -40,6 +42,7 @@
 
 :man_student: **Working on...** <br/>
 🌱 Clean Code <br/>
+🌱 React Native <br/>
 
 **Stuff Im planning on learning soon** <br/>
 :hourglass: Docker <br/>
