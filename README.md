@@ -13,6 +13,7 @@
 :trophy: .NET Core <br/>
 :trophy: Dapper <br/>
 :trophy: Databases - (mySQL, PostgreSQL, MongoDB, Firebase) <br/>
+:trophy: Authentication (JWT + Refresh token flow) <br/>
 :trophy: JUnit testing <br/>
 :trophy: Maven build automation <br/>
 :trophy: API:s - (creating & consuming) - (REST & GraphQL) <br/>
@@ -36,7 +37,9 @@
 :trophy: Version control (git) <br/>
 :trophy: Deployment - (Netlify, Heroku, Firebase, Vercel, Azure) <br/>
 :trophy: Agile Development <br/>
-:trophy: Azure DevOps, Trello & Figma <br/>
+:trophy: Azure DevOps<br/>
+:trophy: Trello & Jira <br/>
+:trophy: Figma <br/>
 :trophy: CI/CD <br/>
 :trophy: Writing Secure Web Applications
 
