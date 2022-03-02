@@ -26,8 +26,10 @@
 :trophy: Redux + Redux Toolkit<br/>
 :trophy: Storybook.js<br/>
 :trophy: React-Query<br/>
+:trophy: React Hook Form <br/>
 :trophy: Material UI<br/>
 :trophy: Styled Components <br/>
+:trophy: Emotion Css <br/>
 :trophy: Tailwind Css <br/>
 :trophy: Sass <br/>
 :trophy: Next.js <br/>
@@ -50,22 +52,4 @@
 **Stuff Im planning on learning soon** <br/>
 :hourglass: Docker <br/>
 
-
 :email: **Contact Email:** Oscar.olsson94@hotmail.com :email: <br/> <br/>
-:earth_americas: **Website** - (Under construction) <br/>
-:construction: www.olssondev.com :construction:
-
-<!--
-**oscarolsson94/oscarolsson94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
