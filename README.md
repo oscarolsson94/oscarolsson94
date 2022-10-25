@@ -2,9 +2,9 @@
 **Areas I have experience within**
 
 :books: **Languages:**<br/>
-:trophy: Java <br/>
 :trophy: JavaScript <br/>
 :trophy: TypeScript <br/>
+:trophy: Java <br/>
 :trophy: C# <br/>
 
 :coffee: **Backend:**<br/>
