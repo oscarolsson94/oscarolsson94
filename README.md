@@ -16,7 +16,7 @@
 :trophy: Authentication (JWT + Refresh token flow) <br/>
 :trophy: JUnit testing <br/>
 :trophy: Maven build automation <br/>
-:trophy: API:s - (creating & consuming) - (REST & GraphQL) <br/>
+:trophy: API:s - (creating & consuming) <br/>
 :trophy: Node.js <br/>
 :trophy: Express.js <br/>
 
