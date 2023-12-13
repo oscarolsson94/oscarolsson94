@@ -48,6 +48,3 @@
 
 :man_student: **Working on...** <br/>
 🌱 Clean Code <br/>
-
-**Stuff Im planning on learning soon** <br/>
-:hourglass: Docker <br/>
